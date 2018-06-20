@@ -1,0 +1,6 @@
+var myfirstParam = request.parameters["param1"];
+
+return { 
+ "param1" : request.parameters["param1"],
+    "param2" : request.parameters["param2"]
+}
